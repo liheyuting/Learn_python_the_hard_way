@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "5187266b05cf3d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b4276fb91a308e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2018/180928git清单.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d89406dcad1c2eb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "df228bfc3f5c0972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8409b44875f3871",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea763ac7869b554e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "37dda89db4d7ca8a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363
+  },
+  "right": {
+    "id": "74f0c3dcff94316e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb3a01b7c86840c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39db5592bbdac615",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "d20ce7b425302347",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2018/180928git清单.md",
+    "2018/180928git 清单.md",
+    "2019/191225要不要在2B公司做数字营销.md",
+    "2019/191024DaoVoice实现在线联系.md",
+    "2019/191023Hexo next主题建立标签云.md"
+  ]
+}
