@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "06822978cf787a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98e6f75463eea17",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cobas 8000 十周年.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc0be75745a4182",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c9bab20b504e98f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e7fded4fbdfe64a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f934f2522df66e9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2ed85247d07f483",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264
+  },
+  "right": {
+    "id": "7f3d9490884d3c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd0fd8b353e7b3e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f7873047fa993d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "88655887c5dff55e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "cobas 8000 十周年.md",
+    "ER Campaign/20200807 kick off meeting.md",
+    "Acadia/Acadia.md",
+    "ER Campaign/ER Campaign.md",
+    "ER Campaign/Untitled.md"
+  ]
+}

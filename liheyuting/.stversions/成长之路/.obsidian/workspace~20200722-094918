@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "52341c00abf3de30",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43011c8e51c0497",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily notes/0721.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25166d433da3d4a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc333f812f2dd8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aae5842d0146793",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff728d6fd3c301da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "a26e0b15d76789b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267
+  },
+  "right": {
+    "id": "28e4485940950efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8818d7b8f4adbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e53a95134bcc23b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bad2ac44979e379",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Daily notes/0721.md",
+    "Daily notes/0720.md",
+    "Projects/写作/Untitled.md",
+    "Projects/写作/解决博客的底部序列显示问题-未解决.md",
+    "Projects/写作/构建project的todolist.md"
+  ]
+}

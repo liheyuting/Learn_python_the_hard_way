@@ -1,0 +1,128 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Daily notes": true,
+    "Open with default app": true,
+    "Tag pane": true,
+    "Page preview": true,
+    "Starred": true,
+    "Zettelkasten prefixer": true,
+    "Slides": true,
+    "Random note": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "52341c00abf3de30",
+    "type": "split",
+    "children": [
+      {
+        "id": "17738a5cc6ad48ff",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily notes/0616.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "vimMode": false,
+  "lastOpenFiles": [
+    "Daily notes/0616.md",
+    "Daily notes/0614.md",
+    "Daily notes/2020-06-15.md",
+    "Daily notes/2020-06-14.md",
+    "Daily notes/0618.md"
+  ],
+  "lastOpenRightSidedockTab": "Backlinks",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "leftSidedock": {
+    "id": "25166d433da3d4a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc333f812f2dd8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aae5842d0146793",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff728d6fd3c301da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "a26e0b15d76789b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "28e4485940950efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8818d7b8f4adbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e53a95134bcc23b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bad2ac44979e379",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  }
+}

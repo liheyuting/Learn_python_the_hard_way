@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "ec8b6683aaad842e",
+    "type": "split",
+    "children": [
+      {
+        "id": "634efab33ea6616f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily notes/20210901.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60b37de09cc97b98",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b3434cd8be49b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92f6c43112c5711",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "514a716fabc0175b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37d9182e499a4cb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203
+  },
+  "right": {
+    "id": "23a660fc8a51192a",
+    "type": "split",
+    "children": [
+      {
+        "id": "67c71fd2d6638220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f36d7916abf9623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/20210901.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "532d07f94abd49e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/20210901.md"
+              }
+            }
+          },
+          {
+            "id": "75cb2152ba463d46",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "634efab33ea6616f",
+  "lastOpenFiles": [
+    "Daily notes/20210901.md",
+    "2021-W35.md",
+    "Template/时间复利.md",
+    "Template/Diary template.md",
+    "Template/Page template.md",
+    "Template/Week notes template.md",
+    "Area/生存技能/数据分析/Python/20210831pythonpractice.md",
+    "Daily notes/20210831.md",
+    "Area/生存技能/数据分析/Python/20210901pythonpractice.md",
+    "Area/生存技能/数据分析/Python/未命名.md"
+  ]
+}
